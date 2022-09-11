@@ -1,0 +1,55 @@
+
+img {
+    width: 350px;
+    padding-left: 545px;
+    padding-top: 120px;
+    
+}
+div#top{
+    padding-left: 1190px;
+    
+   
+}
+input#top{
+    background-color: rgba(42, 105, 241, 0.897);
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: white;
+    color: black;
+    font-weight: bold;
+    
+}
+div#pesquisa{
+padding-left: 450px;
+padding-top: 20px;
+
+}
+input#caixa{
+    
+    border-radius:12px;
+    border-color: rgb(224, 219, 219);
+    width: 550px;
+    height: 35px;
+   
+
+}
+
+div#buttons{
+    padding-top: 20px;
+    padding-left: 130px;
+}
+
+input#buttons{
+    width:130px;
+    height: 40px;
+    border-radius: 10px;
+    border: 200cm ;
+   
+
+}
+
+hr{
+   padding-right: 900px;
+}
+
